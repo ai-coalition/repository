@@ -19,11 +19,10 @@ To empower educators, schools, and communities with the knowledge, tools, and fr
 ---
 
 ## 🧭 Explore the Site
-Use the navigation bar above to access:
-- School AI submissions  
-- Shared resources  
-- The AI Sparks Workbook  
-- Coalition background and goals  
+- [School AI Submissions](/repository/docs/schools.md)  
+- [Shared Resources](/repository/docs/resources.md)  
+- [AI Sparks Workbook](/repository/docs/sparks.md)  
+- [About the Coalition](/repository/docs/about.md)  
 
 ---
 
