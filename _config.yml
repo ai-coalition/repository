@@ -4,15 +4,15 @@ theme: cayman
 
 nav:
   - name: Home
-    link: /repository/docs/index.md
+    link: /docs/index.md
   - name: Schools
-    link: /repository/docs/schools.md
+    link: /docs/schools.md
   - name: Resources
-    link: /repository/docs/resources.md
+    link: /docs/resources.md
   - name: Sparks Workbook
-    link: /repository/docs/sparks.md
+    link: /docs/sparks.md
   - name: About
-    link: /repository/docs/about.md
+    link: /docs/about.md
 
 markdown: kramdown
 kramdown:
