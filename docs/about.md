@@ -23,4 +23,4 @@ For questions, contributions, or collaboration opportunities, please reach out t
 
 ---
 
-[← Back to Home](/repository/docs/index.md)
+[← Back to Home](/docs/index.md)
