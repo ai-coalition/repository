@@ -20,3 +20,7 @@ We believe that no single institution should have to figure out AI alone. By poo
 
 ## 📬 Contact
 For questions, contributions, or collaboration opportunities, please reach out to the coalition coordination team.
+
+---
+
+[← Back to Home](/repository/docs/index.md)
