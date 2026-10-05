@@ -13,16 +13,11 @@ Welcome to the AI Education Coalition — a collaborative space for schools, edu
 
 ---
 
-## 🎯 Our Mission
-To empower educators, schools, and communities with the knowledge, tools, and frameworks needed to integrate AI responsibly, creatively, and effectively across teaching, learning, and school operations.
-
----
-
 ## 🧭 Explore the Site
-- [School AI Submissions](/repository/docs/schools.md)  
-- [Shared Resources](/repository/docs/resources.md)  
-- [AI Sparks Workbook](/repository/docs/sparks.md)  
-- [About the Coalition](/repository/docs/about.md)  
+- [School AI Submissions](/docs/schools.md)  
+- [Shared Resources](/docs/resources.md)  
+- [AI Sparks Workbook](/docs/sparks.md)  
+- [About the Coalition](/docs/about.md)  
 
 ---
 
