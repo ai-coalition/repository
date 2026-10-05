@@ -2,23 +2,18 @@ title: AI Education Coalition
 description: Regional collaboration for AI in education
 theme: cayman
 
-# Enable clean navigation bar
 nav:
   - name: Home
-    link: index.md
+    link: /repository/docs/index.md
   - name: Schools
-    link: schools.md
+    link: /repository/docs/schools.md
   - name: Resources
-    link: resources.md
+    link: /repository/docs/resources.md
   - name: Sparks Workbook
-    link: sparks.md
+    link: /repository/docs/sparks.md
   - name: About
-    link: about.md
+    link: /repository/docs/about.md
 
-# Improve Markdown rendering
 markdown: kramdown
 kramdown:
   input: GFM
-
-# Optional: add a logo later
-# logo: /assets/images/logo.png
