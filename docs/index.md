@@ -4,20 +4,20 @@ Welcome to the AI Education Coalition — a collaborative space for schools, edu
 
 ---
 
+## 🧭 Explore the Site
+- [School AI Submissions](/repository/schools.html)  
+- [Shared Resources](/repository/resources.html)  
+- [AI Sparks Workbook](/repository/sparks.html)  
+- [About the Coalition](/repository/about.html)  
+
+---
+
 ## 🌐 What This Hub Provides
 - School-submitted AI plans and examples  
 - Shared coalition resources  
 - Professional learning materials  
 - Frameworks, templates, and guides  
 - Innovation highlights from across the region  
-
----
-
-## 🧭 Explore the Site
-- [School AI Submissions](/docs/schools.md)  
-- [Shared Resources](/docs/resources.md)  
-- [AI Sparks Workbook](/docs/sparks.md)  
-- [About the Coalition](/docs/about.md)  
 
 ---
 
