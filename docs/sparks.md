@@ -4,7 +4,7 @@ This workbook provides examples, prompts, and activities for educators exploring
 
 ---
 
-## View the Workbook
+## 📖 View the Workbook
 
 <iframe 
     src="https://view.officeapps.live.com/op/embed.aspx?src=https://ai-coalition.github.io/repository/RUSD%20AI%20Sparks%20Workbook.pptx"
@@ -15,7 +15,5 @@ This workbook provides examples, prompts, and activities for educators exploring
 
 ---
 
-## Download (Optional)
-If you prefer to download the file:
-
+## ⬇ Optional Download
 [Download RUSD AI Sparks Workbook (PPTX)](RUSD%20AI%20Sparks%20Workbook.pptx)
