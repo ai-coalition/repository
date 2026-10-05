@@ -21,4 +21,4 @@ These resources are available for all coalition schools.
 
 ---
 
-[← Back to Home](/repository/docs/index.md)
+[← Back to Home](/docs/index.md)
