@@ -1,7 +1,7 @@
-# K‑12 AI Coalition Hub
+# AI Education Coalition Hub
 
-Welcome to the regional K‑12 AI Coalition.  
-This site brings together school AI plans, shared resources, professional learning materials, and examples of AI-supported teaching and learning.
+Welcome to the AI Education Coalition.  
+This site serves as a central hub for schools, educators, and partners collaborating to explore, implement, and share effective approaches to artificial intelligence in education.
 
 ## Navigation
 - [School AI Submissions](schools.md)
@@ -12,10 +12,23 @@ This site brings together school AI plans, shared resources, professional learni
 ---
 
 ### Our Mission
-To support educators, administrators, staff, and students in safely, effectively, and creatively integrating AI into teaching, learning, and school operations.
+To empower educators, schools, and communities with the knowledge, tools, and frameworks needed to integrate AI responsibly, creatively, and effectively across teaching, learning, and school operations.
 
-### Who We Serve
-- K‑12 schools  
-- Teachers & instructional coaches  
-- Administrators & support staff  
-- Students & families  
+### What We Support
+- Schools building AI readiness  
+- Educators exploring AI-supported instruction  
+- Leaders developing responsible AI policies  
+- Teams designing professional learning around AI  
+- Communities navigating the future of AI in education  
+
+---
+
+### How This Hub Works
+This site brings together:
+- School-submitted AI plans and examples  
+- Shared coalition resources  
+- Professional learning materials  
+- Frameworks, templates, and guides  
+- Innovation highlights from across the region  
+
+Explore the pages above to access materials, contribute resources, and stay connected with coalition-wide AI efforts.
