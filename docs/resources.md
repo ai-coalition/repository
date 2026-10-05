@@ -18,3 +18,7 @@ These resources are available for all coalition schools.
 - School AI Plan Template  
 - Classroom AI Activity Template  
 - AI Policy Starter Kit  
+
+---
+
+[← Back to Home](/repository/docs/index.md)
