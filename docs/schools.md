@@ -4,20 +4,21 @@ Below are participating schools and links to their AI resources, plans, and exam
 
 ---
 
-## Racine Unified School District (RUSD)
-- AI Sparks Workbook (PPTX)
-- AI Literacy Framework
-- PD Slide Decks
+<div style="border:1px solid #e0e0e0; padding:20px; border-radius:8px; margin-bottom:20px;">
+  <h2>Racine Unified School District (RUSD)</h2>
+  <p>AI Sparks Workbook, AI Literacy Framework, PD Materials</p>
+  <a href="sparks.md">View Sparks Workbook →</a>
+</div>
 
-## Whitewater Unified School District
-- AI Plan (PDF)
-- Classroom Examples
-- PD Materials
+<div style="border:1px solid #e0e0e0; padding:20px; border-radius:8px; margin-bottom:20px;">
+  <h2>Whitewater Unified School District</h2>
+  <p>AI Plan, Classroom Examples, PD Materials</p>
+</div>
 
-## Kenosha Unified School District
-- AI Implementation Guide
-- Policy Drafts
-- PD Sessions
+<div style="border:1px solid #e0e0e0; padding:20px; border-radius:8px; margin-bottom:20px;">
+  <h2>Kenosha Unified School District</h2>
+  <p>AI Implementation Guide, Policy Drafts, PD Sessions</p>
+</div>
 
 ---
 
