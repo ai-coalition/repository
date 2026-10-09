@@ -1,3 +1,5 @@
+---
+---
 # School AI Submissions
 
 Below are participating schools and links to their AI resources, plans, and examples.
