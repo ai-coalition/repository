@@ -1,3 +1,5 @@
+---
+---
 # AI Education Coalition Hub
 
 Welcome to the AI Education Coalition — a collaborative space for schools, educators, and partners working together to explore, implement, and share effective approaches to artificial intelligence in education.
