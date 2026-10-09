@@ -21,4 +21,6 @@ These resources are available for all coalition schools.
 
 ---
 
+{% include avatar.html %}
+
 [← Back to Home](/repository/index.html)
