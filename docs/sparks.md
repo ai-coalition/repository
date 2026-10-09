@@ -20,4 +20,6 @@ This workbook provides examples, prompts, and activities for educators exploring
 
 ---
 
+{% include avatar.html %}
+
 [← Back to Home](/repository/index.html)
