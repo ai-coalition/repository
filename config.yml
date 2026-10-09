@@ -1,8 +1,7 @@
 title: AI Education Coalition
 description: Regional collaboration for AI in education
-theme: cayman
+theme: jekyll-theme-cayman
 
-# Navigation bar
 nav:
   - name: Home
     link: /repository/index.html
