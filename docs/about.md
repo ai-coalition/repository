@@ -23,4 +23,6 @@ For questions, contributions, or collaboration opportunities, please reach out t
 
 ---
 
+{% include avatar.html %}
+
 [← Back to Home](/repository/index.html)
