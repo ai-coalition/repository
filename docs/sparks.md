@@ -21,7 +21,5 @@ This workbook provides examples, prompts, and activities for educators exploring
 [Download RUSD AI Sparks Workbook (PPTX)](/repository/RUSD%20AI%20Sparks%20Workbook.pptx)
 
 ---
-
-{% include avatar.html %}
-
 [← Back to Home](/repository/index.html)
+{% include avatar.html %}
