@@ -1,3 +1,5 @@
+---
+---
 # RUSD AI Sparks Workbook
 
 This workbook provides examples, prompts, and activities for educators exploring AI-supported teaching and learning.
