@@ -22,7 +22,5 @@ These resources are available for all coalition schools.
 - AI Policy Starter Kit  
 
 ---
-
-{% include avatar.html %}
-
 [← Back to Home](/repository/index.html)
+{% include avatar.html %}
