@@ -23,3 +23,5 @@ Welcome to the AI Education Coalition — a collaborative space for schools, edu
 
 ### ✨ Building the Future of AI in Education
 The coalition brings together diverse perspectives, practical examples, and shared expertise to help schools navigate the rapidly evolving AI landscape with confidence and clarity.
+
+{% include avatar.html %}
