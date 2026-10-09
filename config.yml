@@ -1,0 +1,20 @@
+title: AI Education Coalition
+description: Regional collaboration for AI in education
+theme: cayman
+
+# Navigation bar
+nav:
+  - name: Home
+    link: /repository/index.html
+  - name: Schools
+    link: /repository/schools.html
+  - name: Resources
+    link: /repository/resources.html
+  - name: Sparks Workbook
+    link: /repository/sparks.html
+  - name: About
+    link: /repository/about.html
+
+markdown: kramdown
+kramdown:
+  input: GFM
