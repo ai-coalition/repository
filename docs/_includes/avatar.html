@@ -1,0 +1,22 @@
+<div style='width: 100%; height: 600px'>
+  <div id='genie-container' style='width: 100%; height: 100%'></div>
+</div>
+
+<script type='module'>
+try {
+  const { embeds } = await import('https://unisphere.nvp1.ovp.kaltura.com/v1/loader/index.esm.js');
+  const { destroy, apis } = await embeds.workspace({
+    env: 'us',
+    apis: ['genieChat'],
+    session: {
+      widgetId: '1_z5qi0rc5',
+      partnerId: 6577933,
+    },
+  });
+  const { remove } = apis.genieChat.contained({
+    elementId: 'genie-container',
+  });
+} catch (error) {
+  console.error('Failed to create embeds:', error);
+}
+</script>
