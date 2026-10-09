@@ -1,3 +1,5 @@
+---
+---
 # Shared AI Resources
 
 These resources are available for all coalition schools.
