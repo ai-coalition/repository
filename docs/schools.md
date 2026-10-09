@@ -22,4 +22,6 @@ Below are participating schools and links to their AI resources, plans, and exam
 
 ---
 
+{% include avatar.html %}
+
 [← Back to Home](/repository/index.html)
