@@ -22,6 +22,6 @@ Below are participating schools and links to their AI resources, plans, and exam
   <p>AI Implementation Guide, Policy Drafts, PD Sessions</p>
 </div>
 
+{% include avatar.html %}
 ---
 [← Back to Home](/repository/index.html)
-{% include avatar.html %}
