@@ -1,3 +1,6 @@
+---
+---
+
 # About the AI Education Coalition
 
 The AI Education Coalition is a regional collaborative dedicated to helping schools, educators, and community partners navigate the rapidly evolving landscape of artificial intelligence. Our goal is to create a shared space where members can exchange resources, develop common frameworks, and support one another in building thoughtful, responsible, and future-ready approaches to AI in education.
